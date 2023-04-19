@@ -50,7 +50,7 @@ The Genetic algorithm will begin running to find the clashfree timetable. Once t
 - Pandas - Library used for importing/exporting and manipulating data.
 
 ## Results
-The script outputs a new CSV file with the generated timetable, which is guaranteed to be clash-free. The user can then use this timetable to schedule classes.
+The script outputs a new CSV file with the generated timetable (Timetable.csv), which is guaranteed to be clash-free. The user can then use this timetable to schedule classes.
 
 ## Author:
 - Muhammad Ahmed Suhail
