@@ -58,7 +58,7 @@ The script outputs a new CSV file with the generated timetable (Timetable.csv), 
 - Muhammad Ahmed Suhail
 
 ## Acknowledgments:
-- This project was completed as an assignment for Introduction to Artificial Intelligence at FAST - NUCES Islamabad.
+- This project was completed as an assignment for **Introduction to Artificial Intelligence** at FAST - NUCES Islamabad.
 
 
 
